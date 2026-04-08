@@ -1,0 +1,14 @@
+
+
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-nvidia-ai-endpoints
+openai
+faiss-cpu
+python-dotenv
+pypdf
+requests
+beautifulsoup4
+ollama
